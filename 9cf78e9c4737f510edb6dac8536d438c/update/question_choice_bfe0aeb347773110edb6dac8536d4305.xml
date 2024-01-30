@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="What is the size of this issue?">f49f567347773110edb6dac8536d43ed</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-24 21:32:20</sys_created_on>
+        <sys_id>bfe0aeb347773110edb6dac8536d4305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Small</sys_name>
+        <sys_package display_value="Safety" source="x_1187396_safety">9cf78e9c4737f510edb6dac8536d438c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9cf78e9c4737f510edb6dac8536d438c</sys_scope>
+        <sys_update_name>question_choice_bfe0aeb347773110edb6dac8536d4305</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-24 21:32:20</sys_updated_on>
+        <text>Small</text>
+        <value>small</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=bfe0aeb347773110edb6dac8536d4305"/>
+</record_update>
